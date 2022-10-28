@@ -1,0 +1,101 @@
+body {
+    display: flex;
+    align-items: center;
+    padding: 0 5px;
+    justify-content: center;
+    min-height: 100vh;
+    background: #90EE90;
+}
+
+.calendar-outer {
+    width: 400px;
+    background-color: rgb(148, 148, 255);
+    font-family: 'Poppins', sans-serif;
+    margin: 10% auto 2%;
+    padding: 1%;
+}
+.calendar {
+    width: 400px;
+    background: rgb(199, 61, 68);
+    border-radius: 10px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.12);
+}
+#highlights {
+  text-align: center;
+  list-style-type: none;
+}
+#highlights li {
+  padding: 5px;
+  font-size: 50px;
+  font-family: serif;
+  font-weight: bold;
+}
+.calendar-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  padding-bottom: 15px;
+  border-bottom: 19px;
+}
+
+.current-month {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.nav-btn {
+  text-align: center;
+  line-height: 40px;
+  font-size: 14px;
+  color: #000;
+  border-radius: 28px;
+  border: 2px solid transparent;
+}
+
+.weekdays-name,
+.calendar-days {
+  display: flex;
+  flex-wrap: wrap;
+  padding-inline: 60px;
+}
+
+.weekdays-name {
+  padding-top: 12px;
+}
+
+.calendar-days {
+  padding-bottom: 12px;
+}
+
+.days-name,
+[class$="-day"] {
+  width: 40px;
+  height: 40px;
+  color: #000;
+  text-align: center;
+  line-height: 40px;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.days-name {
+  color: black;
+  font-weight: 700;
+}
+
+.padding-day {
+  color: #a5a5a5;
+  user-select: none;
+}
+.nav-btn:hover {
+  background-color: rgb(199, 61, 68);
+  border: 2px solid rgb(61, 61, 61);
+  cursor: pointer;
+}
+.month-day {
+  border-radius: 50%;
+}
