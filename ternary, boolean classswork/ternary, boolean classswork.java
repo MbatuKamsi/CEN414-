@@ -1,32 +1,33 @@
 public class Main {
   public static void main(String[] args) {
-    System.out.println(Math.sqrt(7*5));
-    System.out.println(Math.abs(7-5));
-    System.out.println(Math.pow(7,5));
-    System.out.println(Math.exp(7));
-    System.out.println(Math.cbrt(7));
+    System.out.println(Math.sqrt(0*5));
+    System.out.println(Math.abs(0-5));
+    System.out.println(Math.pow(0,5));
+    System.out.println(Math.exp(0));
+    System.out.println(Math.cbrt(0));
     
-    if (7>5){
-      System.out.println("7 is greater than 5");
+    if (0>5){
+      System.out.println("0 is greater than 5");
   }
     else{
-      System.out.println("5 is greater than 7");
+      System.out.println("5 is greater than 0");
     }
     
-    //Ternary
+    //TERNARY
     
-    double m0 =7;
+    double m0 =0;
     double m1 =5;
-    String smaller = m1==m0 ? "3 is equal t0 7" : "3 is not equal t0 7";
+    String smaller = m1==m0 ? "5 is equal to 0" : "5 is not equal to 0";
     System.out.println(smaller);
 
-    smaller = m1>m0 ? "3 is greater than 7" : "3 is not greater than 7";
+    smaller = m1>m0 ? "5 is greater than 0" : "5 is not greater than 0";
     System.out.println(smaller);
 
-    smaller = m1<m0 ? "3 is less than 7" : "3 is not less than t0 7";
+    smaller = m1<m0 ? "5 is less than 0" : "5 is not less than 0";
+      
     System.out.println(smaller);
     
-    //Boolean
+    //BOOLEAN
     int x = 7;
     int y = 5;
     
@@ -37,10 +38,13 @@ public class Main {
     System.out.println(x>y&&x<y);
     System.out.println(x>y||x<y);
     System.out.println(!(x>y&&x<y));
+        //ITERATION
+   for (int i = 0; i<=99; i++) {
+      if(i==05){
+        System.out.println(i);
+      }}
     
-    
-    
-    int day = 6;
+   int day = 6;
   switch (day){
    case 1 : 
   System.out.println("monday");   
