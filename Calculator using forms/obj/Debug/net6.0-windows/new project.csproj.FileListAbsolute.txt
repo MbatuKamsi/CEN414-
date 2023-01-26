@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\new project\obj\Debug\net6.0-windows\new project.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\new project\obj\Debug\net6.0-windows\new_project.Form1.resources
+C:\Users\USER\source\repos\new project\obj\Debug\net6.0-windows\new project.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\new project\obj\Debug\net6.0-windows\new project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\new project\obj\Debug\net6.0-windows\new project.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\new project\obj\Debug\net6.0-windows\new project.AssemblyInfo.cs
+C:\Users\USER\source\repos\new project\obj\Debug\net6.0-windows\new project.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\new project\bin\Debug\net6.0-windows\new project.exe
+C:\Users\USER\source\repos\new project\bin\Debug\net6.0-windows\new project.deps.json
+C:\Users\USER\source\repos\new project\bin\Debug\net6.0-windows\new project.runtimeconfig.json
+C:\Users\USER\source\repos\new project\bin\Debug\net6.0-windows\new project.dll
+C:\Users\USER\source\repos\new project\bin\Debug\net6.0-windows\new project.pdb
+C:\Users\USER\source\repos\new project\obj\Debug\net6.0-windows\new project.dll
+C:\Users\USER\source\repos\new project\obj\Debug\net6.0-windows\refint\new project.dll
+C:\Users\USER\source\repos\new project\obj\Debug\net6.0-windows\new project.pdb
+C:\Users\USER\source\repos\new project\obj\Debug\net6.0-windows\new project.genruntimeconfig.cache
+C:\Users\USER\source\repos\new project\obj\Debug\net6.0-windows\ref\new project.dll
